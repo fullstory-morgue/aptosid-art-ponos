@@ -1,6 +1,6 @@
 #!/usr/bin/make -f
 
-THEME= aptosid-imera
+THEME= aptosid-ponos
 BITMAPS= logo.png
 SVG= logo.svg
 

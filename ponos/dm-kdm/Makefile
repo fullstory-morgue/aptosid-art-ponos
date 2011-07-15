@@ -1,6 +1,6 @@
 #!/usr/bin/make -f
 
-THEME= aptosid-imera
+THEME= aptosid-ponos
 BITMAPS= files background fred
 
 all: $(BITMAPS)
@@ -10,7 +10,7 @@ files:
 	cp session.png $(THEME)
 	cp system.png $(THEME)
 	cp KdmGreeterTheme.desktop $(THEME)
-	cp imera.xml $(THEME)
+	cp ponos.xml $(THEME)
 	cp oxygen.svg $(THEME)
 	cp screenshot.png $(THEME)
 
