@@ -1,3 +1,9 @@
+aptosid-art-ponos (0.0.1) UNRELEASED; urgency=low
+
+  * NOT RELEASED YET
+
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Fri, 15 Jul 2011 21:07:32 +0200
+
 aptosid-art-ponos (0.0.0) unstable; urgency=low
 
   * add initial dummy artwork.
