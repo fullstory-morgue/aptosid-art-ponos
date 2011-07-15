@@ -1,5 +1,5 @@
 #
-# Default aptosid 2011-02 imera theme 
+# Default aptosid 2011-03 ponos theme 
 # for xfce4 based on the balou engine
 #
 # Copyright (c) 2010 David Creedy <djcreedy@iinet.net.au>
@@ -30,8 +30,8 @@
 # Info section
 #
 [Info]
-Name=aptosid 2011-02 (imera)
-Description=default xfce theme for aptosid 2011-02 release
+Name=aptosid 2011-03 (ponos)
+Description=default xfce theme for aptosid 2011-03 release
 
 #
 # splash screen settings

@@ -1,9 +1,9 @@
 all:
-	for i in  imera; \
+	for i in  ponos; \
 		do $(MAKE) -C $$i $@; done
 
 clean:
-	for i in  imera; \
+	for i in  ponos; \
 		do $(MAKE) -C $$i $@; done
 
 distclean: clean

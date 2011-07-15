@@ -1,6 +1,6 @@
 #!/bin/bash
 
-theme=aptosid-imera
+theme=aptosid-ponos
 res=1920x1200
 anim=_anim
 
