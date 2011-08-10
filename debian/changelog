@@ -1,10 +1,6 @@
-aptosid-art-ponos (0.0.1) UNRELEASED; urgency=low
+aptosid-art-ponos (0.0.1) unstable; urgency=low
 
-  [ Stefan Lippers-Hollmann ]
-  * NOT RELEASED YET
-
-  [ Rick Battle ]
-  * removed the errant green from the default colour scheme
+  * removed the errant green from the default colour scheme.
 
  -- Rick Battle <rick.battle@solmera.com>  Tue, 09 Aug 2011 13:48:00 -0400
 
