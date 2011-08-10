@@ -1,3 +1,9 @@
+aptosid-art-ponos (0.0.2) UNRELEASED; urgency=low
+
+  * NOT RELEASED YET
+
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Wed, 10 Aug 2011 03:56:45 +0200
+
 aptosid-art-ponos (0.0.1) unstable; urgency=low
 
   * removed the errant green from the default colour scheme.
