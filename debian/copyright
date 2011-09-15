@@ -1,6 +1,6 @@
-Format-Specification: http://svn.debian.org/wsvn/dep/web/deps/dep5.mdwn?op=file&rev=135
-Name: aptosid-art-ponos
-Maintainer: Bernard Gray <bernard.gray@gmail.com>
+Format: http://anonscm.debian.org/viewvc/dep/web/deps/dep5.mdwn?revision=174&view=co
+Upstream-Name: aptosid-art-ponos
+Upstream-Contact: Rick Battle <rick.battle@celtrenicdesigns.com>
 Source: svn://svn.berlios.de/fullstory/aptosid-art-ponos/trunk/
 
 Files: *
@@ -18,7 +18,7 @@ Copyright: 2007-2009, Bernard Gray <bernard.gray@gmail.com>
            2007, Nuno Fernades Pinheiro <nf.pinheiro@gmail.com>
            2007, Riccardo Iaconelli <riccardo@oxygen-icons.org>
            2007, David Miller <miller@oxygen-icons.org>
-License: CC-BY-SA | LGPL-2+
+License: CC-BY-SA or LGPL-2+
 
 Files: ponos/splash-kde/svg-anim.pl, ponos/splash-kde/composite_pngs.pl
 Copyright: 2009-2010, Naill Walsh <niallwalsh@users.berlios.de>
