@@ -1,3 +1,9 @@
+aptosid-art-ponos (0.0.3) unstable; urgency=low
+
+  * fix dep5 syntax, add another gpl2+ stanza.
+
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Fri, 16 Sep 2011 00:27:23 +0200
+
 aptosid-art-ponos (0.0.2) unstable; urgency=low
 
   * use Format instead of Format-Specification in debian/copyright and fix URL
