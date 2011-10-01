@@ -2,15 +2,12 @@
 
 theme=aptosid-ponos
 res=1920x1200
+freds=( 0 1 2 3 4 )
 anim=_anim
 
-./svg-anim.pl streaked-fred.svg 30 streaked-fred$anim.svg scaley,0.25:1,1:30,sin:middle opacity,0:1,1:30,sin
-inkscape --without-gui --export-png="streaked-fred$anim.png" streaked-fred$anim.svg
-rm streaked-fred$anim.svg
-
-./svg-anim.pl unstreaked-fred.svg 30 unstreaked-fred$anim.svg opacity,0:1,1:30,sin
-inkscape --without-gui --export-png="unstreaked-fred$anim.png" unstreaked-fred$anim.svg
-rm unstreaked-fred$anim.svg
-
-./composite_pngs.pl -o $theme/$res/fred.png streaked-fred$anim.png unstreaked-fred$anim.png
-rm streaked-fred$anim.png unstreaked-fred$anim.png
+for fred in ${freds[@]}
+do
+./svg-anim.pl fred$fred.svg 30 fred$fred$anim.svg scaley,0:1,1:30,sin:base opacity,0.5:1,1:30,sin
+inkscape --without-gui --export-png="$theme/$res/fred$fred.png" fred$fred$anim.svg
+rm fred$fred$anim.svg
+done
