@@ -1,9 +1,5 @@
-aptosid-art-ponos (0.0.5) UNRELEASED; urgency=low
+aptosid-art-ponos (0.1.0) unstable; urgency=low
 
-  [ Stefan Lippers-Hollmann ]
-  * NOT RELEASED YET
-
-  [ Rick Battle ]
   * initial commit of ponos wallpaper
   * initial commit of ponos kdm theme
   * initial commit of ponos ksplash theme 
