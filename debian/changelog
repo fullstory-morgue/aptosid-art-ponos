@@ -7,8 +7,9 @@ aptosid-art-ponos (0.0.5) UNRELEASED; urgency=low
   * initial commit of ponos wallpaper
   * initial commit of ponos kdm theme
   * initial commit of ponos ksplash theme 
+  * initial commit of ponos xfce splash theme 
 
- -- Rick Battle <rick.battle@solmera.com>  Sat, 01 Oct 2011 15:41:26 -0700
+ -- Rick Battle <rick.battle@solmera.com>  Sat, 01 Oct 2011 16:42:50 -0700
 
 aptosid-art-ponos (0.0.4) unstable; urgency=low
 
