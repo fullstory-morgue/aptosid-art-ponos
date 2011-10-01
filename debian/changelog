@@ -5,8 +5,9 @@ aptosid-art-ponos (0.0.5) UNRELEASED; urgency=low
 
   [ Rick Battle ]
   * initial commit of ponos wallpaper
+  * initial commit of ponos kdm theme
 
- -- Rick Battle <rick.battle@solmera.com>  Fri, 30 Sep 2011 21:20:02 -0700
+ -- Rick Battle <rick.battle@solmera.com>  Sat, 01 Oct 2011 12:51:53 -0700
 
 aptosid-art-ponos (0.0.4) unstable; urgency=low
 
