@@ -88,6 +88,7 @@ ForegroundPositive=120,183,83
 ForegroundVisited=165,122,122
 
 [General]
+ColorScheme=aptosid-ponos-dark
 Name=aptosid-hypnos-dark
 shadeSortColumn=true
 
