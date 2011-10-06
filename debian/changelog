@@ -6,8 +6,9 @@ aptosid-art-ponos (0.1.1) UNRELEASED; urgency=low
   [ Rick Battle ]
   * added ColorScheme spefication to the dark colour theme
   * lightened the background red a bit
+  * removed the ln breakage in the make file, fixed and added it in to the make_the_freds script
 
- -- Rick Battle <rick.battle@solmera.com>  Sat, 01 Oct 2011 19:26:56 -0700
+ -- Rick Battle <rick.battle@solmera.com>  Thu, 06 Oct 2011 13:25:48 -0700
 
 aptosid-art-ponos (0.1.0) unstable; urgency=low
 

@@ -25,9 +25,6 @@ background:
 
 freds:
 	./make_the_freds
-	ln -s  ../$(CONTROLDIR)/fred.png $(THEME)/1920x1080/fred.png
-	ln -s  ../$(CONTROLDIR)/fred.png $(THEME)/1600x1200/fred.png
-	ln -s  ../$(CONTROLDIR)/fred.png $(THEME)/1280x1024/fred.png
 
 clean:
 	$(RM) -r $(THEME)
