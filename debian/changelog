@@ -5,6 +5,7 @@ aptosid-art-ponos (0.1.1) UNRELEASED; urgency=low
 
   [ Rick Battle ]
   * added ColorScheme spefication to the dark colour theme
+  * lightened the background red a bit
 
  -- Rick Battle <rick.battle@solmera.com>  Sat, 01 Oct 2011 19:26:56 -0700
 
