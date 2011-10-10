@@ -6,7 +6,7 @@ aptosid-art-ponos (0.1.2) UNRELEASED; urgency=low
   [ Rick Battle ]
   * s/hypnos/ponos/ in aptosid-ponos-dark.colors 
 
- -- Rick Battle <detaos@core>  Mon, 10 Oct 2011 16:08:57 -0700
+ -- Rick Battle <rick.battle@solmera.com>  Mon, 10 Oct 2011 16:08:57 -0700
 
 aptosid-art-ponos (0.1.1) unstable; urgency=low
 
