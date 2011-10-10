@@ -1,8 +1,12 @@
 aptosid-art-ponos (0.1.2) UNRELEASED; urgency=low
 
+  [ Stefan Lippers-Hollmann ]
   * NOT RELEASED YET
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sat, 08 Oct 2011 02:47:09 +0200
+  [ Rick Battle ]
+  * s/hypnos/ponos/ in aptosid-ponos-dark.colors 
+
+ -- Rick Battle <detaos@core>  Mon, 10 Oct 2011 16:08:57 -0700
 
 aptosid-art-ponos (0.1.1) unstable; urgency=low
 
