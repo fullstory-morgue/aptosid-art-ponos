@@ -14,9 +14,9 @@ prepare:
 	cp Preview.png $(THEME)/
 	cp Theme.rc $(THEME)/
 	cp description.txt $(THEME)/$(CONTROLDIR)
-	ln -s  $(THEME)/1920x1080/description.txt $(THEME)/$(CONTROLDIR)/description.txt
-	ln -s  $(THEME)/1600x1200/description.txt $(THEME)/$(CONTROLDIR)/description.txt
-	ln -s  $(THEME)/1280x1024/description.txt $(THEME)/$(CONTROLDIR)/description.txt
+	ln -s  ../$(CONTROLDIR)/description.txt $(THEME)/1920x1080/description.txt
+	ln -s  ../$(CONTROLDIR)/description.txt $(THEME)/1600x1200/description.txt
+	ln -s  ../$(CONTROLDIR)/description.txt $(THEME)/1280x1024/description.txt 
 
 background:
 	inkscape --without-gui --export-width=1280 --export-height=1024 \

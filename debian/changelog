@@ -6,8 +6,9 @@ aptosid-art-ponos (0.1.2) UNRELEASED; urgency=low
   [ Rick Battle ]
   * s/hypnos/ponos/ in aptosid-ponos-dark.colors 
   * fixed overlapping issue in ksplash for non-16x10 resolutions 
+  * fixed backwards ln's 
 
- -- Rick Battle <rick.battle@solmera.com>  Fri, 28 Oct 2011 19:19:21 -0700
+ -- Rick Battle <rick.battle@solmera.com>  Fri, 28 Oct 2011 19:39:43 -0700
 
 aptosid-art-ponos (0.1.1) unstable; urgency=low
 
