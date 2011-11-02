@@ -1,9 +1,5 @@
-aptosid-art-ponos (0.1.2) UNRELEASED; urgency=low
+aptosid-art-ponos (0.1.2) unstable; urgency=low
 
-  [ Stefan Lippers-Hollmann ]
-  * NOT RELEASED YET
-
-  [ Rick Battle ]
   * s/hypnos/ponos/ in aptosid-ponos-dark.colors 
   * fixed overlapping issue in ksplash for non-16x10 resolutions 
   * fixed backwards ln's 
